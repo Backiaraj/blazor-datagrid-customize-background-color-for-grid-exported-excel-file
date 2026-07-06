@@ -8,7 +8,7 @@ This repository demonstrates how to apply custom styling to a Blazor DataGrid wh
 
 The sample includes:
 
-- A fully functional Blazor Server application with an interactive data grid
+- A fully functional Blazor Server application with an interactive datagrid
 - Example order data with multiple columns (Order ID, Customer Name, Order Date, and Freight)
 - Toolbar button for triggering Excel export with custom styling
 - Reusable code patterns for applying themes during export operations
