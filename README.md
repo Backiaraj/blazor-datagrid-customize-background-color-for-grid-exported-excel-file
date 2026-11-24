@@ -56,6 +56,6 @@ dotnet run
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/excel-exporting
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/data-grid/excel-exporting
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/exporting?theme=fluent2
